@@ -2,7 +2,7 @@
   "name": "nextjs-semantic",
   "description": "Kids Website",
   "version": "1.0.0",
-  "author": "Zlatin Stamatov",
+  "author": "Fortitudeman",
   "license": "MIT",
   "scripts": {
     "dev": "next",
